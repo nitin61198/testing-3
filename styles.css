@@ -110,6 +110,7 @@ nav h1{
     }
     .bg-image img{
         height: 31vh;
+        padding-top:8px;
 
     }
     .cards {
