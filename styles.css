@@ -89,7 +89,7 @@ nav h1{
     .card{
         flex-direction: column;
         row-gap: 17px;
-        margin-left: 22px;
+        margin-left: 32px;
         width: 266px;
         
     }
